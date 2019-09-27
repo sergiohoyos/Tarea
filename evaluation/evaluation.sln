@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29209.62
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "evaluation", "evaluation\evaluation.csproj", "{D8C9F4DD-1EA4-43A6-8326-13E3115E7B6F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webEval", "evaluation\webEval.csproj", "{D8C9F4DD-1EA4-43A6-8326-13E3115E7B6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
